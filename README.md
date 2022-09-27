@@ -22,8 +22,4 @@ Proxy k
 
 k through prediction
 
-## Prediction Models
 
-ML Model
-
-DNN Model
