@@ -6,9 +6,9 @@ Appendix 2 of Doctorate Thesis submitted by Daniel Joseph Ringis
 
 The following details are available [here](https://docs.google.com/spreadsheets/d/1PoDQhCmve3FDIq5o6QkMgWn1fGeY8WVDzPkQU-e0768/edit?usp=sharing):
 
-List of clips and Sources
+List of Video Clips and Sources
 
-Initial Direct Optimisation Clip list
+List of Clips used in Preliminary Experiments
 
 Training/Test Set Breakdown
 
