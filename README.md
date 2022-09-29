@@ -4,15 +4,13 @@ Appendix 2 of Doctorate Thesis submitted by Daniel Joseph Ringis
 
 ## Dataset Breakdown
 
+The following details are available [here](https://docs.google.com/spreadsheets/d/1PoDQhCmve3FDIq5o6QkMgWn1fGeY8WVDzPkQU-e0768/edit?usp=sharing):
+
 List of clips and Sources
 
 Initial Direct Optimisation Clip list
 
-Pareto Optimal Clip list
-
-Training Set
-
-Test Set
+Training/Test Set Breakdown
 
 ## Video Demonstrations
 
@@ -20,8 +18,6 @@ We see the output of nine different values of k using the same clip, [Sports_108
 
 One of the better performing clips, [Gaming_480P-6d1e](https://raw.githubusercontent.com/ringisd/Appendix2/main/Great.mp4), where on the left is default with a bitrate of 122.7 kbps, and the right is using the best k from direct optimisation with 53.1 kbps. These are at equal PSNR.
 
-Proxy k
 
-k through prediction
 
 
